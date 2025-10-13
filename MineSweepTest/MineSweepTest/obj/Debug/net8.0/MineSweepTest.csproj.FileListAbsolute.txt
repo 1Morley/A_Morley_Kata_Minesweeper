@@ -1,0 +1,14 @@
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.exe
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.deps.json
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.runtimeconfig.json
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.pdb
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.AssemblyInfoInputs.cache
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.AssemblyInfo.cs
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.csproj.CoreCompileInputs.cache
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\refint\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.pdb
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.genruntimeconfig.cache
+C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\ref\MineSweepTest.dll
