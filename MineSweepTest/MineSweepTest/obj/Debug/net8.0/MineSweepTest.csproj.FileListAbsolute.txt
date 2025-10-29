@@ -12,3 +12,18 @@ C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\D
 C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.pdb
 C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.genruntimeconfig.cache
 C:\Users\Bug\OneDrive\Documents\year2Q2\AppDev\MineSweepTest\MineSweepTest\obj\Debug\net8.0\ref\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.exe
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.deps.json
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.runtimeconfig.json
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\bin\Debug\net8.0\MineSweepTest.pdb
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.AssemblyInfoInputs.cache
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.AssemblyInfo.cs
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.csproj.CoreCompileInputs.cache
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.sourcelink.json
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\refint\MineSweepTest.dll
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.pdb
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\MineSweepTest.genruntimeconfig.cache
+C:\Users\Bug\OneDrive\Documents\year3Q1\soft design\A_Morley_Kata_Minesweeper\MineSweepTest\MineSweepTest\obj\Debug\net8.0\ref\MineSweepTest.dll

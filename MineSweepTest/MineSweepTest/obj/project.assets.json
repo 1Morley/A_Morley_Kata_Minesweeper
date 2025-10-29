@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bug\\OneDrive\\Documents\\year2Q2\\AppDev\\MineSweepTest\\MineSweepTest\\MineSweepTest.csproj",
+      "projectUniqueName": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\MineSweepTest.csproj",
       "projectName": "MineSweepTest",
-      "projectPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year2Q2\\AppDev\\MineSweepTest\\MineSweepTest\\MineSweepTest.csproj",
+      "projectPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\MineSweepTest.csproj",
       "packagesPath": "C:\\Users\\Bug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year2Q2\\AppDev\\MineSweepTest\\MineSweepTest\\obj\\",
+      "outputPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
