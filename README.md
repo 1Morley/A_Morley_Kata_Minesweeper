@@ -10,3 +10,6 @@ A test recreation of Minesweeper
 
 # Dependencies/setup
 I don't think it has any
+
+# state pattern
+I chose the state pattern because it allows me to easily add more games to this system while keeping the main mechanics separate enough that they could be easily moved into a different system later. Also, because it's now built to have multiple games, it means it's easier to find places to add more patterns than if it were just the Minesweeper game.
