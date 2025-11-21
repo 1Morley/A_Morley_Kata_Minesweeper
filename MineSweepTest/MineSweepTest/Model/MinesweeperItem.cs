@@ -10,7 +10,6 @@ namespace MineSweepTest.Model
     {
         public int BombRangeCount{ get; set; }
 
-
         public bool Hidden{ get; set; }
 
         public bool Bomb{ get; set; }
@@ -21,6 +20,23 @@ namespace MineSweepTest.Model
         public MinesweeperItem()
         {
             Hidden = true;
+        }
+
+        public string GetMark()
+        {
+            if (Marked)
+            {
+                return "=";
+            }
+            if (Hidden)
+            {
+                return "-";
+            }
+            if (BombRangeCount == 0)
+            {
+                return " ";
+            }
+            return BombRangeCount.ToString();
         }
 
     }

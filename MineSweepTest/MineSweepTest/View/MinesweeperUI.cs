@@ -10,35 +10,9 @@ namespace MineSweepTest.View
     internal class MinesweeperUI:GridUI<MinesweeperItem>
     {
 
-        public void DisplayMinesweeperBoard(MinesweeperItem[,] board)
-        {
-            for (int row = 0; row < board.GetLength(0); row++)
-            {
-                for (int column = 0; column < board.GetLength(1); column++)
-                {
-                    Console.Write(GetGridLabel(board[row, column]));
-                }
-                Console.WriteLine();
-            }
-            Console.WriteLine();
-        }
 
-        internal override string GetGridLabel(MinesweeperItem selectedItem)
-        {
-            if (selectedItem.Marked)
-            {
-                return "[=]";
-            }
-            if (selectedItem.Hidden)
-            {
-                return "[-]";
-            }
-            if (selectedItem.BombRangeCount == 0)
-            {
-                return "[ ]";
-            }
-            return $"[{selectedItem.BombRangeCount}]";
-        }
+
+        
         public void GetGridSize(out int rowSize, out int columnSize) 
         {
             int maxSize = 25;

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MineSweepTest.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,20 +34,25 @@ namespace MineSweepTest.View
         public static int getInt(string message, int min, int max) 
         {
             int result;
-            bool validNumber = true;
 
             do {
-                if(int.TryParse(getString(message), out result)) 
+                if (int.TryParse(getString(message), out result))
                 {
-                    validNumber = result >= min && result <= max;
+                    if (result >= min && result <= max)
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"INPUT MUST BE AN INPUT FROM {min} TO {max}\n\n");
+                    }
                 }
                 else 
                 {
-                    Console.WriteLine("Bad");
-                    validNumber = false;
+                    Console.WriteLine($"INVALID INPUT\n\n");
                 }
-            
-            }while (!validNumber);
+
+            } while (true);
 
             return result;
         }
@@ -61,5 +67,6 @@ namespace MineSweepTest.View
             }
                 return userInput;
         }
+
     }
 }

@@ -8,7 +8,20 @@ namespace MineSweepTest.Model
 {
     internal class TicTacToeItem : IGridItem
     {
-        public int MarkId { get; set; }
+        public Player Player { get; set; }
+
+        public bool EmptyItem()
+        {
+            return Player == null;
+        }
+
+        public string GetMark()
+        {
+            if (Player == null)
+                return " ";
+
+            return Player.Symbol;
+        }
        
     }
 }

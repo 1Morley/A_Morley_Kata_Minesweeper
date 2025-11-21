@@ -1,20 +1,82 @@
-﻿using System;
+﻿using MineSweepTest.View;
+using System;
 using System.Collections.Generic;
-using System.Data.Common;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace MineSweepTest.Model
 {
-    internal class MinesweeperBoard
+    internal class MinesweeperState : IGameState
     {
-        public MinesweeperItem[,] Board { get; private set; }
+        public MinesweeperItem[,] Board { get; set; }
         private Random rando;
         private int bombCount;
         private int foundBombCount;
+        private MinesweeperUI ui;
+        private bool win = false;
 
-        public MinesweeperBoard(int row, int column, int firstRowSelect, int firstColumnSelect)
+        public MinesweeperState()
+        {
+            ui = new MinesweeperUI();
+        }
+
+
+        public void DisplayEndResults()
+        {
+            ui.EndGameDisplay(win);
+        }
+
+        public void ShowGame()
+        {
+            ui.DisplayBoard(Board);
+        }
+
+        public void StartGame()
+        {
+            ui.GetGridSize(out int rowSize,out int columnSize);
+            ui.SelectItemCords(rowSize, columnSize, out int firstRow, out int firstColumn);
+            CreateGame(rowSize, columnSize, firstRow, firstColumn);
+        }
+
+        public bool TakeTurn()
+        {
+            if (ui.SelectOrMarkSelect())
+            {
+                return SelectItem();
+            }
+            else
+            {
+                MarkItem();
+                return false;
+            }
+
+        }
+
+        public bool SelectItem()
+        {
+            ui.SelectItemCords(getBoardRowSize(), getBoardColumnSize(), out int row, out int column);
+            bool bomb = SelectItem(row, column);
+            if (bomb)
+            {
+                win = false;
+                return true;
+            }
+            if (AreAllBombsFound())
+            {
+                win = true;
+                return true;
+            }
+            return false;
+        }
+        public void MarkItem()
+        {
+            ui.MarkItemCords(getBoardRowSize(), getBoardColumnSize(), out int row, out int column);
+            MarkItem(row, column);
+        }
+
+
+        public void CreateGame(int row, int column, int firstRowSelect, int firstColumnSelect)
         {
             foundBombCount = 0;
             bombCount = 0;
@@ -48,7 +110,7 @@ namespace MineSweepTest.Model
                     int safetyRow = 1;
                     int safetyColumn = 1;
 
-                    if ((!(row >= firstRowSelect - safetyRow && row <= firstRowSelect + safetyRow)) && (!(column >= firstColumnSelect - safetyColumn && column <= firstColumnSelect + safetyColumn)))
+                    if (!(row >= firstRowSelect - safetyRow && row <= firstRowSelect + safetyRow) && !(column >= firstColumnSelect - safetyColumn && column <= firstColumnSelect + safetyColumn))
                     {
                         TryPlaceBomb(row, column);
                     }
@@ -60,7 +122,7 @@ namespace MineSweepTest.Model
         private void TryPlaceBomb(int row, int column)
         {
             MinesweeperItem foundItem = Board[row, column];
-            if(foundItem.BombRangeCount < 4)
+            if (foundItem.BombRangeCount < 4)
             {
                 int randoResult = rando.Next(1, 4);
                 if (randoResult == 1)
@@ -125,11 +187,11 @@ namespace MineSweepTest.Model
         {
             if (Board[row, column].BombRangeCount == 0)
             {
-                int minRow = (row != 0) ? row - 1 : 0;
-                int minCol = (column != 0) ? column - 1 : 0;
+                int minRow = row != 0 ? row - 1 : 0;
+                int minCol = column != 0 ? column - 1 : 0;
 
-                int maxRow = (row != (getBoardRowSize() - 1)) ? row + 1 : (getBoardRowSize() - 1);
-                int maxCol = (column != (getBoardColumnSize() - 1)) ? column + 1 : (getBoardColumnSize() - 1);
+                int maxRow = row != getBoardRowSize() - 1 ? row + 1 : getBoardRowSize() - 1;
+                int maxCol = column != getBoardColumnSize() - 1 ? column + 1 : getBoardColumnSize() - 1;
 
                 for (int rowSelect = minRow; rowSelect <= maxRow; rowSelect++)
                 {
@@ -157,10 +219,15 @@ namespace MineSweepTest.Model
             return Board.GetLength(1);
         }
 
-        
+
         public bool AreAllBombsFound()
         {
             return bombCount == foundBombCount;
         }
+
+
+
+
+
     }
 }

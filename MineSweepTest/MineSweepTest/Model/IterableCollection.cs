@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MineSweepTest.Model
 {
-    internal interface IGridItem
+    internal interface IterableCollection<T>
     {
-        public string GetMark();
+        Iterator<T> CreateIterator();
     }
 }

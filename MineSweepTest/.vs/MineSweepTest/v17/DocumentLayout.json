@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\controller\\minesweepercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\controller\\minesweepercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\playeriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\playeriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\controller\\gameselectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\controller\\gameselectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\controller\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\controller\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\tictactoeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\tictactoeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\playercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\playercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\minesweeperitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\minesweeperitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\controller\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\controller\\tictactoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\tictactoeboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\tictactoeboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\view\\tictactoeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\view\\tictactoeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\minesweeperstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\minesweeperstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 21,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,125 +62,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicTacToeItem.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeItem.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Model\\TicTacToeItem.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeItem.cs",
-              "RelativeToolTip": "MineSweepTest\\Model\\TicTacToeItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:04:24.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MinesweeperItem.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperItem.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Model\\MinesweeperItem.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperItem.cs",
-              "RelativeToolTip": "MineSweepTest\\Model\\MinesweeperItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:04:12.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\GameContext.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Controller\\GameContext.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\GameContext.cs",
-              "RelativeToolTip": "MineSweepTest\\Controller\\GameContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Title": "GridUI.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\View\\GridUI.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs",
+              "RelativeToolTip": "MineSweepTest\\View\\GridUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:55:22.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MinesweeperController.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\MinesweeperController.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Controller\\MinesweeperController.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\MinesweeperController.cs",
-              "RelativeToolTip": "MineSweepTest\\Controller\\MinesweeperController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:55:15.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TicTacToeController.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\TicTacToeController.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Controller\\TicTacToeController.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\TicTacToeController.cs",
-              "RelativeToolTip": "MineSweepTest\\Controller\\TicTacToeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:53:42.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TicTacToeUI.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\TicTacToeUI.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\View\\TicTacToeUI.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\TicTacToeUI.cs",
-              "RelativeToolTip": "MineSweepTest\\View\\TicTacToeUI.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:53:46.056Z",
+              "WhenOpened": "2025-11-21T08:46:22.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameSelectorController.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\GameSelectorController.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Controller\\GameSelectorController.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Controller\\GameSelectorController.cs",
-              "RelativeToolTip": "MineSweepTest\\Controller\\GameSelectorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\Iterator.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\Iterator.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\Iterator.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\Iterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:50:50.777Z",
+              "WhenOpened": "2025-11-21T08:45:46.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Program.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Program.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Program.cs",
-              "RelativeToolTip": "MineSweepTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlayerIterator.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerIterator.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\PlayerIterator.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerIterator.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\PlayerIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:50:43.781Z",
+              "WhenOpened": "2025-11-21T08:44:02.959Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TicTacToeBoard.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeBoard.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Model\\TicTacToeBoard.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeBoard.cs",
-              "RelativeToolTip": "MineSweepTest\\Model\\TicTacToeBoard.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAiwGQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerCollection.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\PlayerCollection.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerCollection.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\PlayerCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T08:46:42.631Z",
+              "WhenOpened": "2025-11-21T08:44:00.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinesweeperState.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperState.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\MinesweeperState.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperState.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\MinesweeperState.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwHkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:43:00.377Z",
               "EditorCaption": ""
             }
           ]

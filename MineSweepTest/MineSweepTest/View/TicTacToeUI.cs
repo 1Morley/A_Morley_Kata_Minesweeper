@@ -10,42 +10,25 @@ namespace MineSweepTest.View
     internal class TicTacToeUI : GridUI<TicTacToeItem>
     {
 
-    internal override string GetGridLabel(TicTacToeItem selectedItem)
+
+
+        public void GetPlayerMark(Player currentPlayer, out int row, out int column) 
         {
-            switch (selectedItem.MarkId)
-            {
-                default:
-                    return "[ ]";
-                case 1:
-                    return "[O]";
-                case 2:
-                    return "[X]";
-
-            }
-
+            GetItemCords($"{currentPlayer.Title()}'s Turn:", 3, 3, out row, out column);
         }
 
-        public void GetPlayerMark(bool playerOne, out int row, out int column) 
+        public void EndGameDisplay(Player Winner)//dead
         {
-            string mark = (playerOne) ? "O" : "X";
-            GetItemCords($"Place {mark} on:", 3, 3, out row, out column);
-        }
-
-        public void EndGameDisplay(int gameResult)
-        {
-            switch (gameResult)
+            string message;
+            if(Winner == null)
             {
-                case 0:
-                    Console.WriteLine("DONE: YOU BOTH LOSE :D");
-                    break;
-                case 1:
-                    Console.WriteLine("DONE: CIRCLES WIN :D");
-                    break;
-                case 2:
-                    Console.WriteLine("DONE: CROSSES WIN :D");
-                    break;
-
+                message = "DONE: YOU BOTH LOSE :D";
             }
+            else
+            {
+                message = $"DONE: {Winner.Title()} WIN :D";
+            }
+            Console.WriteLine(message);
         }
 
     }
