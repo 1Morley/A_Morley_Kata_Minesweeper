@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\minesweeperstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\minesweeperstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\minesweeperitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\minesweeperitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\igriditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\igriditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\playeriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\playeriterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\tictactoeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\tictactoeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\view\\minesweeperui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\view\\minesweeperui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\view\\gridui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|c:\\users\\bug\\onedrive\\documents\\year3q1\\soft design\\a_morley_kata_minesweeper\\minesweeptest\\minesweeptest\\model\\playercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79305D9-FF22-436C-A3EC-0D64A4BBF153}|MineSweepTest\\MineSweepTest.csproj|solutionrelative:minesweeptest\\model\\playercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,47 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 4,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TicTacToeItem.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeItem.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Model\\TicTacToeItem.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\TicTacToeItem.cs",
-              "RelativeToolTip": "MineSweepTest\\Model\\TicTacToeItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:41:45.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGridItem.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\IGridItem.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\Model\\IGridItem.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\IGridItem.cs*",
-              "RelativeToolTip": "MineSweepTest\\Model\\IGridItem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:41:42.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GridUI.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\View\\GridUI.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs*",
-              "RelativeToolTip": "MineSweepTest\\View\\GridUI.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:40:07.17Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -101,28 +66,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MinesweeperUI.cs",
-              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\MinesweeperUI.cs",
-              "RelativeDocumentMoniker": "MineSweepTest\\View\\MinesweeperUI.cs",
-              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\MinesweeperUI.cs",
-              "RelativeToolTip": "MineSweepTest\\View\\MinesweeperUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:39:19.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MinesweeperItem.cs",
               "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperItem.cs",
               "RelativeDocumentMoniker": "MineSweepTest\\Model\\MinesweeperItem.cs",
               "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperItem.cs",
               "RelativeToolTip": "MineSweepTest\\Model\\MinesweeperItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T08:35:21.917Z",
+              "WhenOpened": "2025-11-21T08:59:06.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GridUI.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\View\\GridUI.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\View\\GridUI.cs",
+              "RelativeToolTip": "MineSweepTest\\View\\GridUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:46:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\Iterator.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\Iterator.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\Iterator.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\Iterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:45:46.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerIterator.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerIterator.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\PlayerIterator.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerIterator.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\PlayerIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:44:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerCollection.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\PlayerCollection.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\PlayerCollection.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\PlayerCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:44:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinesweeperState.cs",
+              "DocumentMoniker": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperState.cs",
+              "RelativeDocumentMoniker": "MineSweepTest\\Model\\MinesweeperState.cs",
+              "ToolTip": "C:\\Users\\Bug\\OneDrive\\Documents\\year3Q1\\soft design\\A_Morley_Kata_Minesweeper\\MineSweepTest\\MineSweepTest\\Model\\MinesweeperState.cs",
+              "RelativeToolTip": "MineSweepTest\\Model\\MinesweeperState.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAADwv+IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:43:00.377Z",
               "EditorCaption": ""
             }
           ]

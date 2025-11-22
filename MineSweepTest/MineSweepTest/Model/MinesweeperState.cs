@@ -47,8 +47,7 @@ namespace MineSweepTest.Model
             }
             else
             {
-                MarkItem();
-                return false;
+                return MarkItem();
             }
 
         }
@@ -62,17 +61,20 @@ namespace MineSweepTest.Model
                 win = false;
                 return true;
             }
+            return false;
+        }
+        public bool MarkItem()
+        {
+            ui.MarkItemCords(getBoardRowSize(), getBoardColumnSize(), out int row, out int column);
+            MarkItem(row, column);
+
             if (AreAllBombsFound())
             {
                 win = true;
                 return true;
             }
             return false;
-        }
-        public void MarkItem()
-        {
-            ui.MarkItemCords(getBoardRowSize(), getBoardColumnSize(), out int row, out int column);
-            MarkItem(row, column);
+
         }
 
 

@@ -32,6 +32,10 @@ namespace MineSweepTest.Model
             {
                 return "-";
             }
+            if (Bomb)
+            {
+                return "X";
+            }
             if (BombRangeCount == 0)
             {
                 return " ";
