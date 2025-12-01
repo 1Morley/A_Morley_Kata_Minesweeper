@@ -16,3 +16,6 @@ I chose the state pattern because it allows me to easily add more games to this 
 
 # Iterator Pattern
 I chose the iterator pattern because it seemed like the only one of the ones listed that could be helpful. I used it to handle the turn system; this way, it's not being handled by a random boolean and could hypothetically be used on games with more than two players.
+
+# Decorator Pattern
+I chose the decorator pattern because of the four options, it's the only one that seemed applicable. Originally I was thinking of adding it to the grid items, but it didn't make sense since the only overlap was already overed in the interface. So I decided to instead have it affect the formatting of the strings.
