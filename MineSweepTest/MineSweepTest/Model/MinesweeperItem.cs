@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MineSweepTest.Model
 {
-    public class MinesweeperItem:IGridItem
+    internal class MinesweeperItem:IGridItem
     {
         public int BombRangeCount{ get; set; }
 
@@ -16,9 +16,11 @@ namespace MineSweepTest.Model
 
         public bool Marked { get; set; }
 
+        public IDisplay display { get; private set; }
 
         public MinesweeperItem()
         {
+            display = new GridDisplayDecor(new PlainDisplay());
             Hidden = true;
         }
 
@@ -26,21 +28,22 @@ namespace MineSweepTest.Model
         {
             if (Marked)
             {
-                return "=";
+                return display.FormatString("=");
             }
             if (Hidden)
             {
-                return "-";
+                return display.FormatString("-");
             }
             if (Bomb)
             {
-                return "X";
+                display = new BoldDisplayDecor(display);
+                return display.FormatString("X");
             }
             if (BombRangeCount == 0)
             {
-                return " ";
+                return display.FormatString(" ");
             }
-            return BombRangeCount.ToString();
+            return display.FormatString(BombRangeCount.ToString());
         }
 
     }

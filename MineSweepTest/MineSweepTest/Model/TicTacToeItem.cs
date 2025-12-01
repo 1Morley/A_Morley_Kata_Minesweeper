@@ -10,6 +10,12 @@ namespace MineSweepTest.Model
     {
         public Player Player { get; set; }
 
+        public IDisplay display { get; private set; }
+
+        public TicTacToeItem()
+        {
+            display = new BoldDisplayDecor(new GridDisplayDecor(new PlainDisplay()));
+        }
         public bool EmptyItem()
         {
             return Player == null;
@@ -17,10 +23,19 @@ namespace MineSweepTest.Model
 
         public string GetMark()
         {
-            if (Player == null)
-                return " ";
+            //if (Player == null)
+            //    return " ";
 
-            return Player.Symbol;
+            //return Player.Symbol;
+
+            string symbol = " ";
+
+            if (Player != null)
+            {
+                symbol = Player.Symbol;
+            }
+
+            return display.FormatString(symbol);
         }
        
     }

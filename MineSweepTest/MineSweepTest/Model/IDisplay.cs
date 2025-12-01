@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace MineSweepTest.Model
 {
-    internal interface IGridItem
+    public interface IDisplay
     {
-        public IDisplay display { get; }
-        public string GetMark();
+        public string FormatString(string message);
     }
 }

@@ -9,10 +9,6 @@ namespace MineSweepTest.View
 {
     internal class MinesweeperUI:GridUI<MinesweeperItem>
     {
-
-
-
-        
         public void GetGridSize(out int rowSize, out int columnSize) 
         {
             int maxSize = 25;

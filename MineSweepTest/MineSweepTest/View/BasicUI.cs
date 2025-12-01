@@ -9,7 +9,7 @@ namespace MineSweepTest.View
 {
     internal static class BasicUI
     {
-
+        public static IDisplay SpecialFormat { get { return new BoldDisplayDecor(new ProperCaseDisplayDecor(new PlainDisplay())); } }
         public static int getIndexFromList(string[] optionList, bool exitOption) 
         {
             StringBuilder bob = new StringBuilder();
@@ -27,9 +27,7 @@ namespace MineSweepTest.View
 
         private static string ListOptionToString(string optionString, int index)
         {
-            optionString = optionString.ToLower();
-            optionString = char.ToUpper(optionString[0]) + optionString.Substring(1);
-            return $"\n{index}. {optionString}";
+            return $"\n{index}. {SpecialFormat.FormatString(optionString)}";
         }
         public static int getInt(string message, int min, int max) 
         {

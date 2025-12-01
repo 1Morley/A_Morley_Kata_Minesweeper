@@ -11,21 +11,20 @@ namespace MineSweepTest.View
     {
         public void DisplayBoard(T[,] board)
         {
+            Console.WriteLine(GetColumnCountDisplay(board.GetLength(1)));
             StringBuilder gridBuilder = new StringBuilder();
             for (int row = 0; row < board.GetLength(0); row++)
             {
                 int columnlength = board.GetLength(1);
                 for (int column = 0; column < columnlength; column++)
                 {
-                    gridBuilder.Append(GetGridLabel(board[row, column]));
+                    gridBuilder.Append(board[row, column].GetMark());
                 }
                 gridBuilder.Append($" |{row}\n");
             }
             gridBuilder.Append('\n');
-            Console.WriteLine(GetColumnCountDisplay(board.GetLength(1)));
             Console.WriteLine();
             Console.WriteLine(gridBuilder.ToString());
-
         }
 
         private string GetColumnCountDisplay(int length)
@@ -46,10 +45,7 @@ namespace MineSweepTest.View
             }
             return builder.ToString();
         }
-        internal string GetGridLabel(IGridItem selectedItem)
-        {
-            return $"[ {selectedItem.GetMark()} ]";
-        }
+
         public void GetItemCords(string message, int rowSize, int columnSize, out int row, out int column)
         {
             Console.WriteLine(message);

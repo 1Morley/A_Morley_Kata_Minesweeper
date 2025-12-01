@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MineSweepTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d03068cc4fc402866b869563a8505924d15077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7f784a8124b853e72d4d9081ebefe968dd26417")]
 [assembly: System.Reflection.AssemblyProductAttribute("MineSweepTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MineSweepTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
